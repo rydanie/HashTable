@@ -1,0 +1,273 @@
+Enter the minimun key range value: Enter the maximum key range value:  Your range is 0 to 99
+What should the number of buckets be for the Hash Table? (Best if prime): 
+/nThe value you have entered is not a prime number, to continue with your current value input 1, input 0 if you would like to input a new bucket value: 0
+What should the number of buckets be for the Hash Table? (Best if prime): 
+1
+Please enter a postive integer greater than 2: 
+The bucket value 5 is prime
+Choose an action by pressing the number for the action (1,2,3...):
+(1)Add an element to the Hash Table
+(2)Get an element from the Hash Table
+(3)Remove an element from the Hash Table
+(4)Check the number of entries in a bucket
+(5)Exit the Program
+
+Choice2
+What is the key value of the entry you would like to get
+5555
+The input key is not valid given the set range
+ Your range is 0 to 99
+Enter a valid field
+Current Table: 
+
+
+
+
+Choice2
+What is the key value of the entry you would like to get
+234
+The input key is not valid given the set range
+ Your range is 0 to 99
+Enter a valid field
+Current Table: 
+
+
+
+
+Choice2
+What is the key value of the entry you would like to get
+-343
+The input key is not valid given the set range
+ Your range is 0 to 99
+Enter a valid field
+Current Table: 
+
+
+
+
+Choice2
+What is the key value of the entry you would like to get
+45
+A value des not exist at this key value
+Current Table: 
+
+
+
+
+Choice3
+What is the key value of the entry you would like to remove
+555
+The input key is not valid given the set range
+ Your range is 0 to 99
+Enter a valid field
+Current Table: 
+
+
+
+
+Choice3
+What is the key value of the entry you would like to remove
+34
+A Value does not exist for ths key
+Current Table: 
+
+
+
+
+Choice4
+Which bucket do you want to find the contents of
+77
+You have not entered a valid bucket value.
+Current Table: 
+
+
+
+
+Choice4
+Which bucket do you want to find the contents of
+-4
+You have not entered a valid bucket value.
+Current Table: 
+
+
+
+
+Choice4
+Which bucket do you want to find the contents of
+0
+There are no entries in this bucket.
+Current Table: 
+
+
+
+
+Choice1
+What is the key value of the entry
+5
+What is the value of the entry at this key
+345
+Current Table: 
+345, 
+
+
+
+
+Choice1
+What is the key value of the entry
+10
+What is the value of the entry at this key
+98
+Current Table: 
+345, 98, 
+
+
+
+
+Choice1
+What is the key value of the entry
+15
+What is the value of the entry at this key
+4
+Current Table: 
+345, 98, 4, 
+
+
+
+
+Choice1
+What is the key value of the entry
+34
+What is the value of the entry at this key
+23
+Current Table: 
+345, 98, 4, 
+
+
+
+23, 
+Choice1
+What is the key value of the entry
+99999
+What is the value of the entry at this key
+34
+The input key is not valid given the set range
+ Your range is 0 to 99
+Select another action (1, 2, 3, ...)
+Current Table: 
+345, 98, 4, 
+
+
+
+23, 
+Choice1
+What is the key value of the entry
+33
+What is the value of the entry at this key
+2
+Current Table: 
+345, 98, 4, 
+
+
+2, 
+23, 
+Choice1
+What is the key value of the entry
+23
+What is the value of the entry at this key
+6
+Current Table: 
+345, 98, 4, 
+
+
+2, 6, 
+23, 
+Choice2
+What is the key value of the entry you would like to get
+15
+The value at this key is 4
+Current Table: 
+345, 98, 4, 
+
+
+2, 6, 
+23, 
+Choice2
+What is the key value of the entry you would like to get
+33
+The value at this key is 2
+Current Table: 
+345, 98, 4, 
+
+
+2, 6, 
+23, 
+Choice2
+What is the key value of the entry you would like to get
+76
+A value des not exist at this key value
+Current Table: 
+345, 98, 4, 
+
+
+2, 6, 
+23, 
+Choice3
+What is the key value of the entry you would like to remove
+33
+Bucket size is: 2
+The element you removed is 2
+Current Table: 
+345, 98, 4, 
+
+
+6, 
+23, 
+Choice3
+What is the key value of the entry you would like to remove
+15
+Bucket size is: 3
+The element you removed is 4
+Current Table: 
+345, 98, 
+
+
+6, 
+23, 
+Choice4
+Which bucket do you want to find the contents of
+0
+Bucket size is: 2
+Current Table: 
+345, 98, 
+
+
+6, 
+23, 
+Choice4
+Which bucket do you want to find the contents of
+1
+There are no entries in this bucket.
+Current Table: 
+345, 98, 
+
+
+6, 
+23, 
+Choice4
+Which bucket do you want to find the contents of
+3
+Bucket size is: 1
+Current Table: 
+345, 98, 
+
+
+6, 
+23, 
+Choice5
+Exiting program: 1
+Current Table: 
+345, 98, 
+
+
+6, 
+23, 

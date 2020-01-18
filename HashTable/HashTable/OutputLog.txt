@@ -1,0 +1,19 @@
+Enter the minimun key range value: Enter the maximum key range value:  Your range is 1 to 999
+What should the number of buckets be for the Hash Table? (Best if prime): 
+
+5
+
+The bucket value 5 is prime
+Choose an action by pressing the number for the action (1,2,3...):
+(1)Add an element to the Hash Table
+(2)Get an element from the Hash Table
+(3)Remove an element from the Hash Table
+(4)Check the number of entries in a bucket
+(5)Exit the Program
+
+Choice1
+What is the key value of the entry
+5
+What is the value of the entry at this key
+345
+Choice1
